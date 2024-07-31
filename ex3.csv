@@ -1,0 +1,5 @@
+id,state,mintemp,maxtemp,rainfall,humidity(%),Nitrogen,pHValue,Phosphorus,k
+1,delhi,27,34,12,66.5,110.89,7.74,0.814,43
+2,uttarpradesh,27,35,20,77.0,224.8,9.5,13.8,203.3
+3,maharashtra,25,30,21,80,182.5,7.74,20.6,182.5
+4,bihar,25,25,200,200,40,5.5,50,50
